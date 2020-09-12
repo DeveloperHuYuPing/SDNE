@@ -1,0 +1,6 @@
+precision@2 : 1.000000
+precision@10 : 1.000000
+precision@100 : 0.430000
+precision@500 : 0.086000
+precision@1000 : 0.043000
+precision@10000 : 0.167600

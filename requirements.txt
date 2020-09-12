@@ -1,0 +1,7 @@
+matplotlib
+fire
+numpy
+networkx
+scipy
+torch
+scikit-learn
